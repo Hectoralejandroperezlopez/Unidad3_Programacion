@@ -1,0 +1,17 @@
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica1\bin\Debug\net8.0-windows\Practica1.exe
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica1\bin\Debug\net8.0-windows\Practica1.deps.json
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica1\bin\Debug\net8.0-windows\Practica1.runtimeconfig.json
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica1\bin\Debug\net8.0-windows\Practica1.dll
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica1\bin\Debug\net8.0-windows\Practica1.pdb
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica1\obj\Debug\net8.0-windows\Practica1.Form1.resources
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica1\obj\Debug\net8.0-windows\Practica1.Properties.Resources.resources
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica1\obj\Debug\net8.0-windows\Practica1.csproj.GenerateResource.cache
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica1\obj\Debug\net8.0-windows\Practica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica1\obj\Debug\net8.0-windows\Practica1.AssemblyInfoInputs.cache
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica1\obj\Debug\net8.0-windows\Practica1.AssemblyInfo.cs
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica1\obj\Debug\net8.0-windows\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica1\obj\Debug\net8.0-windows\Practica1.dll
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica1\obj\Debug\net8.0-windows\refint\Practica1.dll
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica1\obj\Debug\net8.0-windows\Practica1.pdb
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica1\obj\Debug\net8.0-windows\Practica1.genruntimeconfig.cache
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica1\obj\Debug\net8.0-windows\ref\Practica1.dll
