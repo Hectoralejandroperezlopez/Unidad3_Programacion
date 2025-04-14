@@ -1,0 +1,16 @@
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 6 do while\bin\Debug\net8.0-windows\Practica 6 do while.exe
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 6 do while\bin\Debug\net8.0-windows\Practica 6 do while.deps.json
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 6 do while\bin\Debug\net8.0-windows\Practica 6 do while.runtimeconfig.json
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 6 do while\bin\Debug\net8.0-windows\Practica 6 do while.dll
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 6 do while\bin\Debug\net8.0-windows\Practica 6 do while.pdb
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 6 do while\obj\Debug\net8.0-windows\Practica_6_do_while.Form1.resources
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 6 do while\obj\Debug\net8.0-windows\Practica 6 do while.csproj.GenerateResource.cache
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 6 do while\obj\Debug\net8.0-windows\Practica 6 do while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 6 do while\obj\Debug\net8.0-windows\Practica 6 do while.AssemblyInfoInputs.cache
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 6 do while\obj\Debug\net8.0-windows\Practica 6 do while.AssemblyInfo.cs
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 6 do while\obj\Debug\net8.0-windows\Practica 6 do while.csproj.CoreCompileInputs.cache
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 6 do while\obj\Debug\net8.0-windows\Practica 6 do while.dll
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 6 do while\obj\Debug\net8.0-windows\refint\Practica 6 do while.dll
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 6 do while\obj\Debug\net8.0-windows\Practica 6 do while.pdb
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 6 do while\obj\Debug\net8.0-windows\Practica 6 do while.genruntimeconfig.cache
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 6 do while\obj\Debug\net8.0-windows\ref\Practica 6 do while.dll
