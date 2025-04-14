@@ -1,0 +1,16 @@
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 7 DO WHILE\bin\Debug\net8.0-windows\Practica 7 DO WHILE.exe
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 7 DO WHILE\bin\Debug\net8.0-windows\Practica 7 DO WHILE.deps.json
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 7 DO WHILE\bin\Debug\net8.0-windows\Practica 7 DO WHILE.runtimeconfig.json
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 7 DO WHILE\bin\Debug\net8.0-windows\Practica 7 DO WHILE.dll
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 7 DO WHILE\bin\Debug\net8.0-windows\Practica 7 DO WHILE.pdb
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 7 DO WHILE\obj\Debug\net8.0-windows\Practica_7_DO_WHILE.Form1.resources
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 7 DO WHILE\obj\Debug\net8.0-windows\Practica 7 DO WHILE.csproj.GenerateResource.cache
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 7 DO WHILE\obj\Debug\net8.0-windows\Practica 7 DO WHILE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 7 DO WHILE\obj\Debug\net8.0-windows\Practica 7 DO WHILE.AssemblyInfoInputs.cache
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 7 DO WHILE\obj\Debug\net8.0-windows\Practica 7 DO WHILE.AssemblyInfo.cs
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 7 DO WHILE\obj\Debug\net8.0-windows\Practica 7 DO WHILE.csproj.CoreCompileInputs.cache
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 7 DO WHILE\obj\Debug\net8.0-windows\Practica 7 DO WHILE.dll
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 7 DO WHILE\obj\Debug\net8.0-windows\refint\Practica 7 DO WHILE.dll
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 7 DO WHILE\obj\Debug\net8.0-windows\Practica 7 DO WHILE.pdb
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 7 DO WHILE\obj\Debug\net8.0-windows\Practica 7 DO WHILE.genruntimeconfig.cache
+C:\Users\E14\OneDrive\Desktop\Raptor\Practica 7 DO WHILE\obj\Debug\net8.0-windows\ref\Practica 7 DO WHILE.dll
